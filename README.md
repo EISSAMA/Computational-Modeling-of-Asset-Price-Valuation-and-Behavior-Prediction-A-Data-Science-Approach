@@ -1,0 +1,2 @@
+# Computational-Modeling-of-Asset-Price-Valuation-and-Behavior-Prediction-A-Data-Science-Approach
+Computational Modeling of Asset Price Valuation and Behavior Prediction is a Python-based project integrating quantitative finance and Data Science. It explores probability, stochastic models, GBM, stock data analysis, volatility estimation, and option pricing through practical computational experiments.
